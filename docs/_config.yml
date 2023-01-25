@@ -60,3 +60,11 @@ show_excerpts: true
 search_enabled: false
 logo: "/logo.png"
 favicon_ico: "/favicon.ico"
+
+# Aux links for the upper right navigation
+aux_links:
+  "luo's signal and tuning":
+    - "https://luomein.github.io/luomein"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
