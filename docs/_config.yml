@@ -61,4 +61,4 @@ show_excerpts: true
 #   - vendor/gems/
 #   - vendor/ruby/
 
-favicon_ico: "./assets/images/favicon.ico"
+favicon_ico: "/assets/images/favicon.ico"
