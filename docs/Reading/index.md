@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book
+title: Reading
 nav_order: 2
 has_children: true
 ---
