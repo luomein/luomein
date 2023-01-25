@@ -60,3 +60,7 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+favicon_ico: "/assets/images/favicon.ico"
+
+
