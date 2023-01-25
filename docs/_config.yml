@@ -58,4 +58,5 @@ show_excerpts: true
 #   - vendor/gems/
 #   - vendor/ruby/
 search_enabled: false
+logo: "/logo.png"
 favicon_ico: "/favicon.ico"
