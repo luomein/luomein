@@ -6,6 +6,10 @@ parent: Brain
 grand_parent: Reading
 ---
 [![大腦這樣「聽」：大腦如何處理聲音，並影響你對世界的認識](https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/55/0010945506.jpg&w=187&h=187&v=63a431b3)](https://www.books.com.tw/products/E050150352)
+| 書名      | 出版日期 | 作者/譯者     |
+| :---        |    :----:   |          :----: |
+| Of Sound Mind: How Our Brain Constructs a Meaningful Sonic World      | 2021/09       | Nina Kraus  |
+| 大腦這樣「聽」：大腦如何處理聲音，並影響你對世界的認識   | 2022/12       |  李承宗, 陸維濃      |
 
 ### 如何得知這本書
 [Podcast Brain Science with Ginger Campbell 訪談作者 Nina Kraus](https://brainsciencepodcast.com/bsp/2022/192-kraus)，介紹這本書，提到聽覺與聽覺意識，雖然是相對小眾的研究領域，但非常有趣，也很有潛力，談了許多之前未被重視的現象，觀點有啟發性。
