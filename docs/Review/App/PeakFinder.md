@@ -7,7 +7,7 @@ grand_parent: Review
 ---
 [![Peak Finder](./PeakFinder/460x0w.png)](https://www.peakfinder.org/)
 
-# Web
+# [Web](https://www.peakfinder.org/)
 
 ## 從目前位置要找某座山頭的方向
 
@@ -35,7 +35,7 @@ grand_parent: Review
 
 ![從澎湖看台灣](./PeakFinder/從澎湖看台灣.png)
 
-# App
+# [App](https://www.peakfinder.org/mobile/)
 
 ## AR擴增實境山頭辨識
 
@@ -52,5 +52,7 @@ grand_parent: Review
 - 上下拖曳改變俯仰角度
 - [上下按鈕改變海拔高度](https://www.peakfinder.org/mobile/elevationoffset/)
 - 切換到地圖上任意位置
+
     選單"視點選擇 Viewpoint selection -> 地圖"
+
 - [飛越到指定山頭](https://www.peakfinder.org/mobile/peakname/)
