@@ -10,10 +10,6 @@ nav_exclude: true
 
 ### Review
 
-#### App
-
- - Peak Finder
-
 #### Brain
 
  - The Extended Mind

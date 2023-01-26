@@ -9,7 +9,7 @@ grand_parent: Review
 
 # [Web](https://www.peakfinder.org/)
 
-## 從目前位置要找某座山頭的方向
+## 從目前位置查找某座山頭的方向
 
 - 方法一：啟用座標網格（ 設定 Settings -> 座標網格 Grid ），就會顯示某座山頭位於羅盤方位幾度
 
