@@ -35,6 +35,7 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 show_excerpts: true
 
@@ -70,5 +71,3 @@ aux_links:
 aux_links_new_tab: false
 
 ga_tracking: G-DD2B5QHPKN
-
-
