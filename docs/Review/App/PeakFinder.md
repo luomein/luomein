@@ -44,4 +44,13 @@ grand_parent: Review
 
 [![Camera Mode](./PeakFinder/camera_mode.png)](https://www.peakfinder.org/mobile/camera/)
 
-## 
+## 改變視角
+
+啟用座標網格（ 設定 Settings -> 座標網格 Grid ）可以輔助了解目前的視角。
+
+- 左右拖曳改變羅盤方位角
+- 上下拖曳改變俯仰角度
+- [上下按鈕改變海拔高度](https://www.peakfinder.org/mobile/elevationoffset/)
+- 切換到地圖上任意位置
+    選單"視點選擇 Viewpoint selection -> 地圖"
+- [飛越到指定山頭](https://www.peakfinder.org/mobile/peakname/)
