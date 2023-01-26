@@ -11,23 +11,18 @@ nav_exclude: true
 
 #### App
 
- - [ ] Peak Finder
+ - Peak Finder
 
 #### Brain
 
- - [ ] The Extended Mind
+ - The Extended Mind
 
 ### Zakka
 
 #### Ukraine
 
- - [ ] Secret Project Studio
- - [ ] MomCooksJam
- - [ ] Wander Chocolate Boutique
- - [ ] Etnodim
- - [ ] NESAMOVYTO
-
-
- - [ ] hello, this is a todo item
- - [ ] hello, this is another todo item
- - [x] goodbye, this item is done
+ - Secret Project Studio
+ - MomCooksJam
+ - Wander Chocolate Boutique
+ - Etnodim
+ - NESAMOVYTO
