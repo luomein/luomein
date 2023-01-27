@@ -10,14 +10,12 @@ nav_exclude: true
 
 | Title      | Date     |
 | :---        |     ---: |
-{% assign sorted = site.pages | sort: 'last_modified_at' %}
-{% for post in sorted limit:5 %}
-{%- if post.title -%}
-| {{ post.title }} | {{ post.updated_at  | date: '%Y-%m-%d' }} |
-{%- endif -%}
-
-
-{% endfor %}
+{%- assign sorted = site.pages | sort: 'last_modified_at' -%}
+{%- for post in sorted limit:5 -%}
+ {%- if post.title -%}
+| [{{ post.title }}]( {{ post.url | relative_url }} ) | {{ post.updated_at  | date: '%Y-%m-%d' }} |
+ {%- endif -%}
+{%- endfor %}
 
 
 ## To Do List
