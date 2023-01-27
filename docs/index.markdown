@@ -10,10 +10,9 @@ nav_exclude: true
 
 {% assign sorted = site.pages | sort: 'last_modified_at' %}
 {% for post in sorted limit:3 %}
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 ### {{ post.title }}
 
-- {{ post.date | date: date_format }}
+- {{ page.last_modified_at }}
 
 {% endfor %}
 
