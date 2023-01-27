@@ -10,7 +10,6 @@ nav_exclude: true
 
 | Title      | Date     |
 | :---        |     ---: |
-
 {% assign sorted = site.pages | sort: 'last_modified_at' %}
 {% for post in sorted limit:5 %}
 {%- if post.title -%}
