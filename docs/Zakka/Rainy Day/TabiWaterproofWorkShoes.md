@@ -4,6 +4,7 @@ title: Marukatsu Tractor Shoes
 nav_order: 1
 parent: Rainy Day
 grand_parent: Zakka
+last_modified_at:   2023-01-27 8:30:00 +0800
 ---
 # [Marukatsu Tractor Shoes with Crotch Rubber Tabi Waterproof Work Shoes Made in Japan](https://www.amazon.co.jp/-/en/gp/product/B01MTALBCQ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1&psc=1)
 
