@@ -6,6 +6,9 @@ parent: Glyphs
 grand_parent: Practice
 updated_at:   2023-01-27 13:30:00 +0800
 ---
+
+Software: [Glyphs Mini](https://glyphsapp.com)
+
 Tutorial Source: [Sketching](https://glyphsapp.com/learn/sketching)
 
 ## 操作介面
