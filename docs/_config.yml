@@ -36,7 +36,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-sitemap
- - jekyll-last-modified-at
+  - jekyll-last-modified-at
 
 show_excerpts: true
 
@@ -76,4 +76,3 @@ ga_tracking: G-DD2B5QHPKN
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%y-%b-%d'
-
