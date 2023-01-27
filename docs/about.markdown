@@ -23,10 +23,10 @@ permalink: /about/
 
     There are one-off experiments and recursive experiments.
 
-- 重複性實驗就像在調音。
+- 重複性實驗就像調音。
 
     Recursive experiments are like tuning.
 
-- 調音使得訊號與雜訊產生區隔。
+- 調音讓訊號與雜訊區隔。
 
     Tuning differentiates signal from noise.  
