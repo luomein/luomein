@@ -24,3 +24,7 @@ Software: [Manikin](https://manikin.app/)
 - 8 Angle
 
 示範： [Livinleggings](https://youtu.be/18dKpr1qznM)
+
+- Cossack Leg Fold
+
+示範： [Livinleggings](https://youtu.be/QrySowAxVrM?list=PLvN0AXu44HJ3oQwrTtxr84Sj4dfa9Elku&t=117)
