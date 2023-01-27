@@ -6,6 +6,13 @@ layout: default
 title: Home
 nav_exclude: true
 ---
+## Recently Updated
+
+{% assign sorted = site.pages | sort: 'last_modified_at' %}
+{% for post in sorted limit:3 %}
+{{ post }}
+{% endfor %}
+
 ## To Do List
 
 ### Review
@@ -30,5 +37,3 @@ nav_exclude: true
 
  - 乳化作用
  - 芽菜
-
- 
