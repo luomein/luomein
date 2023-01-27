@@ -13,15 +13,15 @@ Software: [Manikin](https://manikin.app/)
 
 ![單腳走路](./DailyExercise/SingleLegWalking.gif)
 
-- Pistol
+- Pistol Squat
 
 示範： [Livinleggings](https://youtu.be/FsRT083fQGg?t=163)
 
-- Crow
+- Crow Pose
 
 示範： [Livinleggings](https://youtu.be/PLbdPAA7sr4)
 
-- 8 Angle
+- 8 Angle Pose
 
 示範： [Livinleggings](https://youtu.be/18dKpr1qznM)
 
