@@ -8,11 +8,15 @@ nav_exclude: true
 ---
 ## Recently Updated
 
+| Title      | Date     |
+| :---        |     ---: |
+
 {% assign sorted = site.pages | sort: 'last_modified_at' %}
 {% for post in sorted limit:5 %}
-#### {{ post.title }}
+{%- if post.title -%}
+| {{ post.title }} | {{ post.updated_at  | date: '%Y-%m-%d' }} |
+{%- endif -%}
 
-- {{ post.updated_at  | date: '%Y-%m-%d' }}
 
 {% endfor %}
 
