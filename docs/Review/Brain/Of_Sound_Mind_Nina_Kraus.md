@@ -4,7 +4,7 @@ title: 大腦這樣「聽」：大腦如何處理聲音，並影響你對世界�
 nav_order: 1
 parent: Brain
 grand_parent: Review
-last_modified_at:   2023-01-26 8:30:00 +0800
+updated_at:   2023-01-26 8:30:00 +0800
 ---
 [![大腦這樣「聽」：大腦如何處理聲音，並影響你對世界的認識](https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/55/0010945506.jpg&w=187&h=187&v=63a431b3)](https://www.books.com.tw/products/E050150352)
 | 書名      | 出版日期 | 作者/譯者     |
