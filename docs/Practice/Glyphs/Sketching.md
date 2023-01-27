@@ -14,5 +14,5 @@ Tutorial Source: [Sketching](https://glyphsapp.com/learn/sketching)
 
 - Add curves
     Switch to the Select tool (V), hold down the Option (Alt) key, and click on the segments to add grey handles to the segments.
-    
-    ![Add curves](https://cdn2.glyphsapp.com/media/pages/learn/sketching/fbae714882-1624987024/sketch-6.gif)
+
+    [![Add curves](https://cdn2.glyphsapp.com/media/pages/learn/sketching/fbae714882-1624987024/sketch-6.gif)](https://glyphsapp.com/learn/sketching)

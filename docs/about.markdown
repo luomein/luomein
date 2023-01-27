@@ -30,3 +30,6 @@ permalink: /about/
 - 調音讓訊號與雜訊區隔。
 
     Tuning differentiates signal from noise.  
+
+    > *"It is the time you have wasted for your rose that makes your rose so important." said the fox.*
+    > ~ The Little Prince
