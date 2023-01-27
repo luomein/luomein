@@ -5,7 +5,7 @@ nav_order: 1
 parent: Practice
 updated_at:   2023-01-27 20:30:00 +0800
 ---
-- 單腳走路
+## 單腳走路
 
 Software: [Manikin](https://manikin.app/)
 
@@ -13,18 +13,18 @@ Software: [Manikin](https://manikin.app/)
 
 ![單腳走路](./DailyExercise/SingleLegWalking.gif)
 
-- Pistol Squat
+## Pistol Squat
 
 示範： [Livinleggings](https://youtu.be/FsRT083fQGg?t=163)
 
-- Crow Pose
+## Crow Pose
 
 示範： [Livinleggings](https://youtu.be/PLbdPAA7sr4)
 
-- 8 Angle Pose
+## 8 Angle Pose
 
 示範： [Livinleggings](https://youtu.be/18dKpr1qznM)
 
-- Cossack Leg Fold
+## Cossack Leg Fold
 
 示範： [Livinleggings](https://youtu.be/QrySowAxVrM?list=PLvN0AXu44HJ3oQwrTtxr84Sj4dfa9Elku&t=117)
