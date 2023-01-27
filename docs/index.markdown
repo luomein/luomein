@@ -9,12 +9,13 @@ nav_exclude: true
 ## Recently Updated
 
 {% assign sorted = site.pages | sort: 'last_modified_at' %}
-{% for post in sorted limit:3 %}
-### {{ post.title }}
+{% for post in sorted limit:5 %}
+#### {{ post.title }}
 
 - {{ post.last_modified_at }}
 
 {% endfor %}
+
 
 ## To Do List
 
