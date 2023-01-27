@@ -12,7 +12,7 @@ nav_exclude: true
 {% for post in sorted limit:3 %}
 ### {{ post.title }}
 
-- {{ page.last_modified_at }}
+- {{ post.last_modified_at }}
 
 {% endfor %}
 
