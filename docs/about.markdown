@@ -31,5 +31,6 @@ permalink: /about/
 
     Tuning differentiates signal from noise.  
 
-    > *"It is the time you have wasted for your rose that makes your rose so important." said the fox.*
+    > *"It is the time you have wasted for your rose that makes your rose so important," said the fox.*
+    > 
     > ~ The Little Prince
