@@ -13,3 +13,11 @@ Software: [Manikin](https://manikin.app/)
 - 單腳走路
 
 ![單腳走路](./DailyExercise/SingleLegWalking.gif)
+
+- Pistol
+
+![Pistol](./DailyExercise/Pistol.png)
+
+![Pistol](./DailyExercise/Pistol.gif)
+
+Inspired by [Livinleggings](https://youtu.be/FsRT083fQGg?t=174)
