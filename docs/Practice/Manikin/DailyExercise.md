@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sketching
+title: Daily Exercise
 nav_order: 1
 parent: Manikin
 grand_parent: Practice
