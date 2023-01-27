@@ -2,8 +2,7 @@
 layout: default
 title: Daily Exercise
 nav_order: 1
-parent: Manikin
-grand_parent: Practice
+parent: Practice
 updated_at:   2023-01-27 20:30:00 +0800
 ---
 - 單腳走路
@@ -17,3 +16,11 @@ Software: [Manikin](https://manikin.app/)
 - Pistol
 
 示範： [Livinleggings](https://youtu.be/FsRT083fQGg?t=163)
+
+- Crow
+
+示範： [Livinleggings](https://youtu.be/PLbdPAA7sr4)
+
+- 8 Angle
+
+示範： [Livinleggings](https://youtu.be/18dKpr1qznM)
