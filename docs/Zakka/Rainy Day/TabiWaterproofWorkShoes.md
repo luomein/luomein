@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peak Finder
+title: Marukatsu Tractor Shoes
 nav_order: 1
 parent: Rainy Day
 grand_parent: Zakka
@@ -19,4 +19,3 @@ grand_parent: Zakka
 - 合腳，但有些緊，不知道如果升級一號是否會太鬆？或是比較舒服？
 - 鞋底走在磚石鋪面會滑，以後想請師傅換鞋底看看
 - 造型與質感都令人滿意
-
