@@ -23,7 +23,7 @@ Tutorial Source: [Sketching](https://glyphsapp.com/learn/sketching)
 - Move point while keep the handles where they are
     By holding down the Option key, you keep the handles where they are, effectively moving the node between the neighboring handles.
 
-    [![Move point while keep the handles where they are]](https://cdn2.glyphsapp.com/media/pages/learn/sketching/59808f9965-1624987024/sketch-10.gif)
+    [![Move point while keep the handles where they are](https://cdn2.glyphsapp.com/media/pages/learn/sketching/59808f9965-1624987024/sketch-10.gif)](https://glyphsapp.com/learn/sketching)
 
 ## Resource
 
