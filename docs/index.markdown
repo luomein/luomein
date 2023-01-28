@@ -9,7 +9,7 @@ nav_exclude: true
 ## Recently Updated
 
 | Title      | Date     |
-| :---        |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:5 %}{% if post.title %}
+| :---        |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title %}
 | [{{ post.title }}]( {{ post.url | relative_url }} ) | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 
