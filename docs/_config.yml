@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "https://luomein.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  luomein
-markdown: GFM
+#markdown: GFM
 
 # Build settings
 #theme: minima
