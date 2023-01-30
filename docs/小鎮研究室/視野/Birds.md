@@ -27,11 +27,11 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 ![鷹](./Birds/鷹.jpeg)
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/q6QdvaE7U8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/q6QdvaE7U8I?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 烏秋
 
-![烏秋](./Birds/烏秋.mov)
+<iframe width="560" height="315" src="https://youtube.com/shorts/6vXvP9tj66g?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 燕
 
