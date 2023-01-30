@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Rainy Day
+title: Alpaca
 nav_order: 2
 parent: Zakka
-has_children: true
+nav_exclude: true
 ---

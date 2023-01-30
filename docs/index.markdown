@@ -19,22 +19,22 @@ nav_exclude: true
 
 #### Brain
 
- - The Extended Mind
+ - [ ] The Extended Mind
 
 ### Zakka
 
 #### Ukraine
 
- - Secret Project Studio
- - MomCooksJam
- - Wander Chocolate Boutique
- - Etnodim
- - NESAMOVYTO
+ - [ ] Secret Project Studio
+ - [ ] MomCooksJam
+ - [ ] Wander Chocolate Boutique
+ - [ ] Etnodim
+ - [ ] NESAMOVYTO
 
 ### 小鎮研究室
 
 #### 輕食
 
- - 乳化作用
- - 芽菜
- - 乾貨
+ - [ ] Soft Mater, Rheology
+ - [ ] 芽菜
+ - [ ] 乾貨
