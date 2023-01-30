@@ -10,7 +10,7 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EvfsmyQJ858" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/srH19Y3Lfs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/srH19Y3Lfs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 鷺鷥
 
