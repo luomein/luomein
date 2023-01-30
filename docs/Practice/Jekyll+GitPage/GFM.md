@@ -2,7 +2,7 @@
 layout: default
 title: GFM Markdown
 nav_order: 1
-parent: Glyphs
+parent: Jekyll+GitPage
 grand_parent: Practice
 updated_at:   2023-01-30 22:30:00 +0800
 ---
