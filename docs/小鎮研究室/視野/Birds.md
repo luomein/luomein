@@ -5,10 +5,8 @@ nav_order: 1
 parent: 視野
 grand_parent: 小鎮研究室
 updated_at:   2023-01-30 11:30:00 +0800
+render_with_liquid: false
 ---
-
-{{ 'http://www.youtube.com/embed/dQw4w9WgXcQ' | external_video_url | external_video_tag }}
-
 ## 紅冠水雞
 
 ![紅冠水雞](./Birds/紅冠水雞.mp4)
