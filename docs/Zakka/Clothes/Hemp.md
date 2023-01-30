@@ -2,6 +2,6 @@
 layout: default
 title: Hemp
 nav_order: 2
-parent: Zakka
+parent: Clothes
 nav_exclude: true
 ---
