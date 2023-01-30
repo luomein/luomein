@@ -8,9 +8,7 @@ updated_at:   2023-01-30 11:30:00 +0800
 ---
 ## 紅冠水雞
 
-![紅冠水雞](./Birds/紅冠水雞.mp4)
-
-{{ './Birds/紅冠水雞.mp4' | video_tag }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvfsmyQJ858" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![紅冠水雞](./Birds/紅冠水雞2.mov)
 
@@ -35,7 +33,7 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 ## 燕
 
-![燕](./Birds/燕.mov)
+<iframe width="560" height="315" src="https://youtube.com/shorts/LvHzCb22MIg?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 伯勞
 
