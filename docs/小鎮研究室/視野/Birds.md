@@ -10,20 +10,13 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EvfsmyQJ858" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![紅冠水雞](./Birds/紅冠水雞2.mov)
-
-![紅冠水雞](./Birds/紅冠水雞2.mov)
+<iframe width="560" height="315" src="https://youtu.be/srH19Y3Lfs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 鷺鷥
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbECEE6ofeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 ## 鷹
-
-
-![鷹](./Birds/鷹.jpeg)
 
 <iframe width="560" height="315" src="https://youtube.com/shorts/q6QdvaE7U8I?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -34,7 +27,3 @@ updated_at:   2023-01-30 11:30:00 +0800
 ## 燕
 
 <iframe width="560" height="315" src="https://youtube.com/shorts/LvHzCb22MIg?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 伯勞
-
-![伯勞](./Birds/伯勞.jpeg)
