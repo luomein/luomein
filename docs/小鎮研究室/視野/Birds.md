@@ -18,9 +18,9 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 ## 鷺鷥
 
-{% raw %}
-{{ <iframe width="560" height="315" src="https://www.youtube.com/embed/boSe-z7Cteg" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> }}
-{% endraw %}
+<div class="embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boSe-z7Cteg" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div>
+
 
 
 [鷺鷥](https://youtu.be/boSe-z7Cteg)
