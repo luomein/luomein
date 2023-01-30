@@ -23,8 +23,8 @@ render_with_liquid: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/boSe-z7Cteg" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe> </div>
 
 
-{% capture my_include %}{% include youtubePlayer.html youtubeId="boSe-z7Cteg" width=560 height=315 %}{% endcapture %}
-    {{ my_include | markdownify }}
+{% include youtubePlayer.html youtubeId="boSe-z7Cteg" width=560 height=315 %}
+
 
 
 [鷺鷥](https://youtu.be/boSe-z7Cteg)
