@@ -14,7 +14,9 @@ updated_at:   2023-01-30 11:30:00 +0800
 
 ## 鷺鷥
 
-![鷺鷥](./Birds/鷺鷥.mov)
+[鷺鷥](https://youtu.be/boSe-z7Cteg)
+
+[![鷺鷥](./Birds/鷺鷥.png)](https://youtu.be/boSe-z7Cteg)
 
 ## 鷹
 
