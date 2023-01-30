@@ -7,8 +7,8 @@ grand_parent: 小鎮研究室
 updated_at:   2023-01-30 11:30:00 +0800
 ---
 
-{{ '<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>'
-}}
+{{ "<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/dQw4w9WgXcQ\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>" }}
+
 ## 紅冠水雞
 
 ![紅冠水雞](./Birds/紅冠水雞.mp4)
@@ -22,7 +22,7 @@ updated_at:   2023-01-30 11:30:00 +0800
 ## 鷺鷥
 
 <div class="embed-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/boSe-z7Cteg" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boSe-z7Cteg" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe> </div>
 
 {% include youtubePlayer.html youtubeId="boSe-z7Cteg" width=560 height=315 %}
 
