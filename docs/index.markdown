@@ -15,6 +15,20 @@ nav_exclude: true
 
 ## To Do List
 
+### Prototyping
+
+#### Tableau
+
+ - [ ] Unicode Infograph
+
+#### File Maker
+
+ - [ ] Kitchen Ghantt Chart
+
+#### Hepta
+
+ - [ ] Site Map
+
 ### Review
 
 #### Brain
@@ -22,6 +36,15 @@ nav_exclude: true
  - [ ] The Extended Mind
 
 ### Zakka
+
+#### Rainy Day
+
+ - [ ] 防水布料
+ - [ ] 雨衣，KiU、MORR
+
+#### Clothes
+
+ - [ ] Dove Tail
 
 #### Ukraine
 
@@ -32,6 +55,12 @@ nav_exclude: true
  - [ ] NESAMOVYTO
 
 ### 小鎮研究室
+
+#### 視野
+
+ - [ ] AIS
+ - [ ] 手機顯微鏡
+ - [ ] Rotating Sky Explorer
 
 #### 輕食
 
