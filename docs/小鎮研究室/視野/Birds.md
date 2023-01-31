@@ -5,6 +5,10 @@ nav_order: 1
 parent: 視野
 grand_parent: 小鎮研究室
 updated_at:   2023-01-30 11:30:00 +0800
+image:
+    path: ./assets/Birds.png
+    width: 90
+    height: 79
 ---
 ## 紅冠水雞
 
