@@ -25,9 +25,17 @@ nav_exclude: true
 ### Inline Code Snippet
 
 | head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+| head1        | head two          | three |
 |:------------:|:------------------|------:|
 | #1           | `swedish` fish      | 123   |
 | #2           | egg               | 5     |
+
 ```
 | head1        | head two          | three |
 |:------------:|:------------------|------:|
@@ -37,6 +45,8 @@ nav_exclude: true
 
 ### Button and Label
 
+- ✅  可正常顯示的格式
+
 | head1        | head two          | three |
 |---:----------|:------------------|------:|
 | #1           | swedish fish      | 123   |
@@ -47,3 +57,5 @@ nav_exclude: true
 | #1           | swedish fish      | 123   |
 | #2           | egg               | 5     |
 ```
+
+- ❌  無法顯示的格式
