@@ -10,7 +10,7 @@ nav_exclude: true
 
 | Title      | Date     |
 | :---       |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title %}
-| [{{ post.title }}]( {{ post.url | relative_url }} )  | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
+| [{{ post.title }}]( {{ post.url | relative_url }} ) [{{ post.grand_parent }}]( {{ post.url | relative_url }} ){: .btn .fs-1 .btn-outline } [{{ post.parent }}]( {{ post.url | relative_url }} ){: .btn .fs-1 .btn-outline } | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 ## To Do List
 
@@ -18,51 +18,51 @@ nav_exclude: true
 
 #### Tableau
 
- - [ ] Unicode Infograph
+  - [ ] Unicode Infograph
 
 #### File Maker
 
- - [ ] Kitchen Ghantt Chart
+  - [ ] Kitchen Ghantt Chart
 
 #### Hepta
 
- - [ ] Site Map
+  - [ ] Site Map
 
 ### Review
 
 #### Brain
 
- - [ ] The Extended Mind
+  - [ ] The Extended Mind
 
 ### Zakka
 
 #### Rainy Day
 
- - [ ] 防水布料
- - [ ] 雨衣，KiU、MORR
+  - [ ] 防水布料
+  - [ ] 雨衣，KiU、MORR
 
 #### Clothes
 
- - [ ] Dove Tail
+  - [ ] Dove Tail
 
 #### Ukraine
 
- - [ ] Secret Project Studio
- - [ ] MomCooksJam
- - [ ] Wander Chocolate Boutique
- - [ ] Etnodim
- - [ ] NESAMOVYTO
+  - [ ] Secret Project Studio
+  - [ ] MomCooksJam
+  - [ ] Wander Chocolate Boutique
+  - [ ] Etnodim
+  - [ ] NESAMOVYTO
 
 ### 小鎮研究室
 
 #### 視野
 
- - [ ] AIS
- - [ ] 手機顯微鏡
- - [ ] Rotating Sky Explorer
+  - [ ] AIS
+  - [ ] 手機顯微鏡
+  - [ ] Rotating Sky Explorer
 
 #### 輕食
 
- - [ ] Soft Mater, Rheology
- - [ ] 芽菜
- - [ ] 乾貨
+  - [ ] Soft Mater, Rheology
+  - [ ] 芽菜
+  - [ ] 乾貨
