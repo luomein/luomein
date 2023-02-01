@@ -7,11 +7,17 @@ grand_parent: Practice
 updated_at:   2023-02-01 10:30:00 +0800
 nav_exclude: true
 ---
-# GFM (GitHub Flavored Markdown)
+# Table Markdown
 
-遇到以下幾個問題。
+```
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+```
 
-## [Disallowed Raw HTML](https://github.github.com/gfm/#disallowed-raw-html-extension-)
+# Table的限制
+
+## 在Table中使用標籤
 
 不支援iframe，這會使得嵌入的Youtube影片無法顯示。
 

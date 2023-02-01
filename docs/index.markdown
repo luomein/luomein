@@ -10,7 +10,7 @@ nav_exclude: true
 
 | Title      | Date     |
 | :---       |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title and post.nav_exclude != true %}
-| [{{ post.title }}]( {{ post.url | relative_url }} ) [{{ post.grand_parent }}]( {{ post.url | relative_url }} ){: .btn .fs-1 .btn-outline } [{{ post.parent }}]( {{ post.url | relative_url }} ){: .btn .fs-1 .btn-outline } | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
+| [{{ post.title }}]( {{ post.url | relative_url }} ) `{{ post.grand_parent }}` `{{ post.parent }}` | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 ## To Do List
 
