@@ -9,7 +9,7 @@ nav_exclude: true
 ## Recently Updated
 
 | Title      | Date     |
-| :---       |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title and post.nav_exclude != true %}
+| :---       |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:20 %}{% if post.title and post.nav_exclude != true %}
 | [{{ post.title }}]( {{ post.url | relative_url }} ) `{{ post.grand_parent }}` `{{ post.parent }}` | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 ## To Do List
