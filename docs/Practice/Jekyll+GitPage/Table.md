@@ -20,16 +20,9 @@ nav_exclude: true
 | #2           | egg               | 5     |
 ```
 
-## 在Table中使用標籤
+## [Formatting Text in Tables](https://www.markdownguide.org/extended-syntax/#formatting-text-in-tables)
 
 ### Inline Code Snippet
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 | head1        | head two          | three |
 |:------------:|:------------------|------:|
@@ -45,17 +38,18 @@ nav_exclude: true
 
 ### Button and Label
 
-- ✅  可正常顯示的格式
+- ✅  搭配 Links 可正常顯示
 
 | head1        | head two          | three |
-|---:----------|:------------------|------:|
-| #1           | swedish fish      | 123   |
-| #2           | egg               | 5     |
+|:----------:  |:------------------|------:|
+| #1           | swedish fish [Link button](http://example.com/){: .btn  .fs-8 } [Link button](http://example.com/){: .btn .btn-blue }     | 123   |
+| #2           | egg  [Link button](http://example.com/){: .label .fs-1 } [Link button](http://example.com/){: .label .label-green }             | 5     |
+
 ```
 | head1        | head two          | three |
-|---:----------|:------------------|------:|
-| #1           | swedish fish      | 123   |
-| #2           | egg               | 5     |
+|:----------:  |:------------------|------:|
+| #1           | swedish fish [Link button](http://example.com/){: .btn  .fs-8 } [Link button](http://example.com/){: .btn .btn-blue }     | 123   |
+| #2           | egg  [Link button](http://example.com/){: .label .fs-1 } [Link button](http://example.com/){: .label .label-green }             | 5     |
 ```
 
 - ❌  無法顯示的格式
