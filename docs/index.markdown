@@ -8,9 +8,9 @@ nav_exclude: true
 ---
 ## Recently Updated
 
-| Title      | Date     |
-| :---        |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title %}
-| [{{ post.title }}]( {{ post.url | relative_url }} ) | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
+| Title      | Category | Date     |
+| :---       | :---     |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title %}
+| [{{ post.title }}]( {{ post.url | relative_url }} ) |[{{post.parent}}]({{ post.url | relative_url }}){: .btn fs-1}| {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 
 ## To Do List
