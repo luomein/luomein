@@ -5,7 +5,6 @@ nav_order: 2
 parent: Jekyll+GitPage
 grand_parent: Practice
 updated_at:   2023-02-01 10:30:00 +0800
-nav_exclude: true
 ---
 - 注意事項
     - 有些標籤在 Table Markdown 中無法正常顯示。
