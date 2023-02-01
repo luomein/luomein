@@ -10,7 +10,7 @@ nav_exclude: true
 
 | Title      | Category | Date     |
 | :---       | :---     |     ---: |{% assign sorted = site.pages | sort: 'updated_at' | reverse %}{% for post in sorted limit:10 %}{% if post.title %}
-| [{{ post.title }}]( {{ post.url | relative_url }} ) |{{post.parent}}{: .label } | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
+| [{{ post.title }}]( {{ post.url | relative_url }} ) [{{ post.grand_parent }}]( {{ post.url | relative_url }} ){: .label } [{{ post.parent }}]( {{ post.url | relative_url }} ){: .btn } |{{post.parent}}{: .label } | {{ post.updated_at  | date: '%Y-%m-%d' }} |{% endif %}{% endfor %}
 
 Default label
 {: .label }
