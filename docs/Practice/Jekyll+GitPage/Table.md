@@ -11,26 +11,28 @@ nav_exclude: true
     - 有些標籤在 Table Markdown 中無法正常顯示。
     - 以迴圈產生 Table 內容時，需注意 Whitespace Control。
 
-# Table Markdown
+## Table Markdown
 
 ```
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+|---:----------|:------------------|------:|
+| #1           | swedish fish      | 123   |
+| #2           | egg               | 5     |
 ```
-
-# Table的限制
 
 ## 在Table中使用標籤
 
 ### inline code snippet
 
-不支援iframe，這會使得嵌入的Youtube影片無法顯示。
-
-解決方式，在_config.yml裡面將以下此行註解掉即可。
-
-```yml
-#markdown: GFM
+| head1        | head two          | three |
+|---:----------|:------------------|------:|
+| #1           | `swedish` fish      | 123   |
+| #2           | egg               | 5     |
+```
+| head1        | head two          | three |
+|---:----------|:------------------|------:|
+| #1           | `swedish` fish      | 123   |
+| #2           | egg               | 5     |
 ```
 
 ## [Task list items](https://github.github.com/gfm/#task-list-items-extension-)
