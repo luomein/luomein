@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 工作坊
+title: 小鎮自造室
 nav_order: 10
 parent: 小鎮研究室
 nav_exclude: true
